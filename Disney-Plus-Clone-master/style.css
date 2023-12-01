@@ -489,7 +489,7 @@ body {
     color: #fff;
 }
 
-@media screen and (max-width: 779px) {
+@media screen and (max-width: 831px) {
     .nav-items{
         display: none;
     }
