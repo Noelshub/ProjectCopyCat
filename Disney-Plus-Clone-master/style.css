@@ -489,3 +489,19 @@ body {
     color: #fff;
 }
 
+@media screen and (max-width: 779px) {
+    .nav-items{
+        display: none;
+    }
+    .right-container{
+        margin: 2em;
+    }
+}
+@media screen and (max-width: 614px) {
+    .search-box{
+        margin-bottom: 1em;
+    }
+}
+
+    
+
